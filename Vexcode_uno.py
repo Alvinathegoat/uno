@@ -3697,7 +3697,7 @@ def draw_card_full_screen(card_str, color_code):
     brain.screen.set_fill_color(Color.TRANSPARENT)
 
 # ----------------------------------------------------------------------------
-# MAIN PROGRAM
+# MAIN PROGRAM 
 # ----------------------------------------------------------------------------
 def main():
     # 1. Deck Setup & Deal 7 cards to Player 1
